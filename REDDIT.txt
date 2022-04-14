@@ -1,1 +1,5 @@
+Master 2 internship
 
+Goal is to realise a big molecular library with a controlled diversity.
+
+Evomol is a molecular generator that has been used for the first part of the internship
